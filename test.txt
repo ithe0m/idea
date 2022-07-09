@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> newidea
 hello world ^_^
 bye world -_-
